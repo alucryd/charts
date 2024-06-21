@@ -4,13 +4,13 @@
         "supported": false,
         "healthy_error": null,
         "location": "/__w/charts/charts/charts/emby/2.0.11",
-        "last_update": "2024-06-21 16:31:22",
+        "last_update": "2024-06-21 17:06:08",
         "required_features": [
             "normalize/ixVolume",
-            "normalize/acl",
-            "definitions/gpuConfiguration"
+            "definitions/gpuConfiguration",
+            "normalize/acl"
         ],
-        "human_version": "4.8.8.0_2.0.11",
+        "human_version": "4.9.0.25_2.0.11",
         "version": "2.0.11",
         "chart_metadata": {
             "name": "emby",
@@ -21,7 +21,7 @@
             "type": "application",
             "version": "2.0.11",
             "apiVersion": "v2",
-            "appVersion": "4.8.8.0",
+            "appVersion": "4.9.0.25",
             "kubeVersion": ">=1.16.0-0",
             "maintainers": [
                 {
@@ -1061,7 +1061,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/__w/charts/charts/charts/emby/1.0.30",
-        "last_update": "2024-06-21 16:31:22",
+        "last_update": "2024-01-23 11:03:33",
         "required_features": [
             "normalize/ixVolume",
             "definitions/gpuConfiguration"
