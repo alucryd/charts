@@ -1,7 +1,7 @@
 image:
   pullPolicy: IfNotPresent
   repository: emby/embyserver
-  tag: 4.8.8.0
+  tag: 4.9.0.25-debug
 
 resources:
   limits:
