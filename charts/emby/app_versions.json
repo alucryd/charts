@@ -1,5 +1,5 @@
 {
-    "2.0.11": {
+    "2.0.12": {
         "healthy": true,
         "supported": false,
         "healthy_error": null,
@@ -10,8 +10,8 @@
             "normalize/ixVolume",
             "normalize/acl"
         ],
-        "human_version": "4.9.0.26_2.0.11",
-        "version": "2.0.11",
+        "human_version": "4.9.0.26_2.0.12",
+        "version": "2.0.12",
         "chart_metadata": {
             "name": "emby",
             "description": "Emby is designed to help you manage your personal media library, such as home videos and photos",
@@ -19,7 +19,7 @@
                 "title": "Emby Server"
             },
             "type": "application",
-            "version": "2.0.11",
+            "version": "2.0.12",
             "apiVersion": "v2",
             "appVersion": "4.9.0.26",
             "kubeVersion": ">=1.16.0-0",
