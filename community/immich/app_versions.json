@@ -8,8 +8,8 @@
         "required_features": [
             "normalize/acl",
             "normalize/ixVolume",
-            "definitions/timezone",
-            "definitions/gpuConfiguration"
+            "definitions/gpuConfiguration",
+            "definitions/timezone"
         ],
         "human_version": "1.106.4_4.0.3",
         "version": "4.0.3",
