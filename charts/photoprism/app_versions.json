@@ -6,10 +6,10 @@
         "location": "/__w/charts/charts/charts/photoprism/2.0.8",
         "last_update": "2024-06-03 10:19:01",
         "required_features": [
-            "normalize/acl",
             "normalize/ixVolume",
             "definitions/gpuConfiguration",
-            "definitions/certificate"
+            "definitions/certificate",
+            "normalize/acl"
         ],
         "human_version": "240531_2.0.8",
         "version": "2.0.8",
