@@ -6,8 +6,8 @@
         "location": "/__w/charts/charts/community/audiobookshelf/1.0.5",
         "last_update": "2024-05-31 17:12:15",
         "required_features": [
-            "normalize/ixVolume",
             "definitions/timezone",
+            "normalize/ixVolume",
             "normalize/acl"
         ],
         "human_version": "2.10.1_1.0.5",
