@@ -6,10 +6,10 @@
         "location": "/__w/charts/charts/community/n8n/1.2.54",
         "last_update": "2024-06-21 13:52:07",
         "required_features": [
-            "normalize/acl",
+            "definitions/nodeIP",
             "normalize/ixVolume",
             "definitions/certificate",
-            "definitions/nodeIP"
+            "normalize/acl"
         ],
         "human_version": "1.47.0_1.2.54",
         "version": "1.2.54",
