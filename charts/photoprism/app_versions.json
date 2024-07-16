@@ -8,8 +8,8 @@
         "required_features": [
             "normalize/ixVolume",
             "definitions/certificate",
-            "normalize/acl",
-            "definitions/gpuConfiguration"
+            "definitions/gpuConfiguration",
+            "normalize/acl"
         ],
         "human_version": "240531_2.0.8",
         "version": "2.0.8",
