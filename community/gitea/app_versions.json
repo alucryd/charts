@@ -6,9 +6,9 @@
         "location": "/__w/charts/charts/community/gitea/1.1.20",
         "last_update": "2024-05-28 11:48:12",
         "required_features": [
+            "normalize/acl",
             "normalize/ixVolume",
-            "definitions/certificate",
-            "normalize/acl"
+            "definitions/certificate"
         ],
         "human_version": "1.22.0_1.1.20",
         "version": "1.1.20",

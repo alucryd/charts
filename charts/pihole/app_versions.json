@@ -6,9 +6,9 @@
         "location": "/__w/charts/charts/charts/pihole/2.0.12",
         "last_update": "2024-06-17 11:52:35",
         "required_features": [
+            "definitions/timezone",
             "normalize/ixVolume",
-            "normalize/acl",
-            "definitions/timezone"
+            "normalize/acl"
         ],
         "human_version": "2024.06.0_2.0.12",
         "version": "2.0.12",
@@ -1502,8 +1502,8 @@
         "location": "/__w/charts/charts/charts/pihole/1.0.25",
         "last_update": "2024-02-12 11:09:38",
         "required_features": [
-            "normalize/ixVolume",
-            "definitions/timezone"
+            "definitions/timezone",
+            "normalize/ixVolume"
         ],
         "human_version": "2023.11.0_1.0.25",
         "version": "1.0.25",
