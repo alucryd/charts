@@ -8,8 +8,8 @@
         "required_features": [
             "normalize/acl",
             "definitions/timezone",
-            "normalize/ixVolume",
-            "definitions/certificate"
+            "definitions/certificate",
+            "normalize/ixVolume"
         ],
         "human_version": "1.27.6_1.2.3",
         "version": "1.2.3",
