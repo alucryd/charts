@@ -6,8 +6,8 @@
         "location": "/__w/charts/charts/community/n8n/1.2.54",
         "last_update": "2024-06-21 13:52:07",
         "required_features": [
-            "definitions/nodeIP",
             "definitions/certificate",
+            "definitions/nodeIP",
             "normalize/ixVolume",
             "normalize/acl"
         ],
