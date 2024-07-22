@@ -10,7 +10,7 @@
             "normalize/ixVolume",
             "definitions/gpuConfiguration"
         ],
-        "human_version": "4.9.0.26_2.0.17",
+        "human_version": "4.9.0.27_2.0.17",
         "version": "2.0.17",
         "chart_metadata": {
             "name": "emby",
@@ -21,7 +21,7 @@
             "type": "application",
             "version": "2.0.17",
             "apiVersion": "v2",
-            "appVersion": "4.9.0.26",
+            "appVersion": "4.9.0.27",
             "kubeVersion": ">=1.16.0-0",
             "maintainers": [
                 {
