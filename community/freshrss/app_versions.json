@@ -6,8 +6,8 @@
         "location": "/__w/charts/charts/community/freshrss/1.1.11",
         "last_update": "2024-06-06 11:20:50",
         "required_features": [
-            "normalize/ixVolume",
             "definitions/timezone",
+            "normalize/ixVolume",
             "normalize/acl"
         ],
         "human_version": "1.24.1_1.1.11",
