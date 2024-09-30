@@ -1,7 +1,7 @@
 image:
   pullPolicy: Always
   repository: emby/embyserver
-  tag: 4.8.0.10
+  tag: 4.8.10.0
 
 resources:
   limits:

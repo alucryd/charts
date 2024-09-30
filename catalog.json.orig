@@ -311,8 +311,8 @@
             "home": "https://emby.media/",
             "location": "/__w/charts/charts/charts/emby",
             "latest_version": "2.0.20",
-            "latest_app_version": "4.8.10.0",
-            "latest_human_version": "4.8.10.0_2.0.20",
+            "latest_app_version": "4.8.0.10",
+            "latest_human_version": "4.8.0.10_2.0.20",
             "last_update": "2024-09-30 18:08:02",
             "name": "emby",
             "recommended": false,
@@ -672,7 +672,87 @@
             "last_update": "2024-07-25 09:40:12",
             "name": "jellyfin",
             "recommended": false,
+<<<<<<< HEAD
             "title": "Jellyfin",
+=======
+            "title": "PhotoPrism",
+            "maintainers": [
+                {
+                    "name": "truenas",
+                    "url": "https://www.truenas.com/",
+                    "email": "dev@ixsystems.com"
+                }
+            ],
+            "tags": [
+                "photos",
+                "image"
+            ],
+            "screenshots": [
+                "https://media.sys.truenas.net/apps/photoprism/screenshots/screenshot1.png",
+                "https://media.sys.truenas.net/apps/photoprism/screenshots/screenshot2.png"
+            ],
+            "sources": [
+                "https://photoprism.app/",
+                "https://github.com/truenas/charts/tree/master/charts/photoprism"
+            ],
+            "icon_url": "https://media.sys.truenas.net/apps/photoprism/icons/icon.svg"
+        },
+        "prometheus": {
+            "app_readme": "<h1>Prometheus</h1>\n<p><a href=\"https://prometheus.io/\">Prometheus</a> - Monitoring system and time series database.</p>\n<blockquote>\n<p>When application is installed, a container will be launched with <strong>root</strong> privileges.\nThis is required in order to apply the correct permissions to the <code>prometheus</code> directories.\nAfterward, the <code>prometheus</code> container will run as a <strong>non</strong>-root user (Default: <code>568</code>).\nAlso an empty configuration file will be created.</p>\n</blockquote>\n<p>The configuration file is located at <code>/config/prometheus.yml</code> inside the container.\nData is stored at <code>/data</code> inside the container.</p>",
+            "categories": [
+                "monitoring"
+            ],
+            "description": "The Prometheus monitoring system and time series database.",
+            "healthy": true,
+            "healthy_error": null,
+            "home": "https://prometheus.io",
+            "location": "/__w/charts/charts/charts/prometheus",
+            "latest_version": "1.1.16",
+            "latest_app_version": "v2.53.0",
+            "latest_human_version": "v2.53.0_1.1.16",
+            "last_update": "2024-07-22 19:24:57",
+            "name": "prometheus",
+            "recommended": false,
+            "title": "Prometheus",
+            "maintainers": [
+                {
+                    "name": "truenas",
+                    "url": "https://www.truenas.com/",
+                    "email": "dev@ixsystems.com"
+                }
+            ],
+            "tags": [
+                "metrics",
+                "storage"
+            ],
+            "screenshots": [
+                "https://media.sys.truenas.net/apps/prometheus/screenshots/screenshot1.png"
+            ],
+            "sources": [
+                "https://github.com/prometheus/prometheus",
+                "https://github.com/truenas/charts/tree/master/charts/prometheus",
+                "https://prometheus.io"
+            ],
+            "icon_url": "https://media.sys.truenas.net/apps/prometheus/icons/icon.png"
+        },
+        "emby": {
+            "app_readme": "<h1>Emby</h1>\n<p><a href=\"https://emby.media/\">Emby</a> is designed to help you manage your personal media library, such as home videos and photos</p>",
+            "categories": [
+                "media"
+            ],
+            "description": "Emby is designed to help you manage your personal media library, such as home videos and photos",
+            "healthy": true,
+            "healthy_error": null,
+            "home": "https://emby.media/",
+            "location": "/__w/charts/charts/charts/emby",
+            "latest_version": "2.0.20",
+            "latest_app_version": "4.8.10.0",
+            "latest_human_version": "4.8.10.0_2.0.20",
+            "last_update": "2024-07-25 09:38:24",
+            "name": "emby",
+            "recommended": false,
+            "title": "Emby Server",
+>>>>>>> a71482b01 (bump emby)
             "maintainers": [
                 {
                     "name": "truenas",
